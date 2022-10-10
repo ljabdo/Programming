@@ -1,0 +1,5 @@
+Lucas Abdo - Lab Section 3pm
+
+NOTE 
+compile error comes from a variable length array because from my 
+understanding we were not suppose to use Malloc/calloc.
